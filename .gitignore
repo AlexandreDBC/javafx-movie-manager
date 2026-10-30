@@ -1,0 +1,4 @@
+bin/
+javafx-sdk-21.0.3/
+doc/
+*.jar
