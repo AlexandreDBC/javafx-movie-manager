@@ -1,5 +1,7 @@
 # Movie Management Desktop App
 
+[![Personal Project](https://img.shields.io/badge/Type-Personal%20Project-blueviolet?style=for-the-badge&logo=github)](https://github.com/AlexandreDBC)
+
 ## About the Project
 A movie management desktop app in Java (rating system, data saving and loading feature, JavaFX). This application provides a comprehensive platform to manage movies, artists, genres, and personalized evaluations.
 
